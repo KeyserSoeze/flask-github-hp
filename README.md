@@ -7,18 +7,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Absatz Zwei
 
 Eine Liste:
-- Punkt 1
-- Punkt 2
-- Punkt 3
 
-- Punkt A
-- Punkt B
-
-Noch eine Liste:
-1. dum
-2. die
-3. dei
-
-1. Eins
-2. Zwei
-
+* Punkt 1
+* Punkt 2
+* Punkt 3
